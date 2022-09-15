@@ -1,10 +1,10 @@
 #1
-print(" Hello Enter your  name: ")
+print(" Hello Enter your  name: Roni, Dov's owner")
 
 #2
-print(" Hello Enter your adress: ")
+print(" Hello Enter your adress: Here")
 
-print("your name")
+print("your name is: Roni, Dov's owner")
 
 """
 name = "Name" 
