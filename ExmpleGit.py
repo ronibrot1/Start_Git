@@ -3,6 +3,7 @@ print(" Hello Enter your  name: Roni, Dov's owner")
 
 #2
 print("Cat")
+print("PANDA")
 
 print("your name is: Roni, Dov's owner")
 
